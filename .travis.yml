@@ -1,4 +1,4 @@
 language: Python
 python:
  - "3.5"
-script: test_rpy.py
+script: test_rpn.py

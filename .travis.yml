@@ -2,7 +2,5 @@ language: Python
 python:
  - "3.5"
 install:
-  - pip install -r requirements.txt
   - pip install .
-script:
- - Python3 test_rpy.py
+script: test_rpy.py
